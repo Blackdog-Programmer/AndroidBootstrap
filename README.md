@@ -1,4 +1,4 @@
-## [FAQs - Wiki](https://github.com/douglascraigschmidt/Android-App-Development/wiki/FAQ)
+## [Coursera Specialization FAQs - Wiki](https://github.com/douglascraigschmidt/Android-App-Development/wiki/FAQ)
 
 ## AndroidBootstrap
 
