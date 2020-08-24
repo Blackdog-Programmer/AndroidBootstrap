@@ -6,7 +6,11 @@
   
   <li><a href="https://hackr.io/blog/best-android-books">10 Best Android Books for App Development in 2020</a></li>
   
-  <li><a href="https://en.wikipedia.org/wiki/Android_version_history">Android version history</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Android_version_history">Android version history</a>
+    <ul>
+      <li><a href="https://en.wikipedia.org/wiki/Open_Handset_Alliance">Open Handset Alliance</a></li>
+    </ul>
+  </li>
 </ul>
 
 
