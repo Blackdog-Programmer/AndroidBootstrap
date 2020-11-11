@@ -11,6 +11,8 @@
       <li><a href="https://en.wikipedia.org/wiki/Open_Handset_Alliance">Open Handset Alliance</a></li>
     </ul>
   </li>
+  
+  <li><a href="https://docs.gradle.org/current/userguide/what_is_gradle.html">What is Gradle?</a></li>
 </ul>
 
 ## TIPs
