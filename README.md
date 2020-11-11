@@ -15,5 +15,9 @@
 
 ## TIPs
 <ul>
-  <li><a href="https://developer.android.com/studio/intro/keyboard-shortcuts">Android Studio - Keyboard shortcuts</a></li>
+  <li><a href="https://developer.android.com/studio/intro/keyboard-shortcuts">Android Studio - Keyboard shortcuts</a>
+    <ul>
+      <li><a href="https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf">IntelliJ IDEA keymap reference documentation</a></li>
+    </ul>
+  </li>
 </ul>
