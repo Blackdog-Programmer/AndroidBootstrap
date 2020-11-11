@@ -13,9 +13,7 @@
   </li>
 </ul>
 
-
-## AndroidBootstrap
-
+## TIPs
 <ul>
-  <li><img src="https://developer.android.com/guide/platform/images/android-stack_2x.png" alt="Android Architecture"></li>
+  <li><a href="https://developer.android.com/studio/intro/keyboard-shortcuts">Keyboard shortcuts</a></li>
 </ul>
