@@ -15,5 +15,5 @@
 
 ## TIPs
 <ul>
-  <li><a href="https://developer.android.com/studio/intro/keyboard-shortcuts">Keyboard shortcuts</a></li>
+  <li><a href="https://developer.android.com/studio/intro/keyboard-shortcuts">Android Studio - Keyboard shortcuts</a></li>
 </ul>
